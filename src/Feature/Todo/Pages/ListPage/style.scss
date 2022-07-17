@@ -1,0 +1,16 @@
+.todo-work{
+  padding: 0 90px;
+  margin: 0 auto;
+  text-align: center;
+  li{
+    list-style-type: none;
+  }
+  h1{
+    color: deeppink;
+  }
+  &__btn{
+    button{
+      margin: 0 5px;
+    }
+  }
+}
